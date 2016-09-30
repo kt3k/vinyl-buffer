@@ -8,7 +8,7 @@
     "through2": "^0.6.1"
   },
   "devDependencies": {
-    "tape": "~4.6.0",
+    "tape": "~4.6.1",
     "vinyl-source-stream": "~0.1.1"
   },
   "scripts": {
